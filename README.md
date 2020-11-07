@@ -31,6 +31,6 @@ I am **[Navdeep Maan](https://djmaan.github.io)**, a 22 y.o. aspiring 👨‍�
 
 ### Show some ❤️ by starring some of the repositories!
 <!-- programming-quote starts -->
-“*First, solve the problem. Then, write the code.*”<br/>— **John Johnson**
+“*Right now you are a prisoner of each application you use. You have only the options that were given you by the developer of that application.*”<br/>— **Ted Nelson**
 <!-- programming-quote ends -->
 </div>
