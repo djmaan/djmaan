@@ -31,6 +31,6 @@ I am **[Navdeep Maan](https://djmaan.github.io)**, a 22 y.o. aspiring 👨‍�
 
 ### Show some ❤️ by starring some of the repositories!
 <!-- programming-quote starts -->
-“*Right now you are a prisoner of each application you use. You have only the options that were given you by the developer of that application.*”<br/>— **Ted Nelson**
+“*If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.*”<br/>— **John von Neumann**
 <!-- programming-quote ends -->
 </div>
