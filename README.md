@@ -31,6 +31,6 @@ I am **[Navdeep Maan](https://djmaan.github.io)**, a 22 y.o. aspiring 👨‍�
 
 ### Show some ❤️ by starring some of the repositories!
 <!-- programming-quote starts -->
-“*If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.*”<br/>— **John von Neumann**
+“*No matter how slick the demo is in rehearsal, when you do it in front of a live audience, the probability of a flawless presentation is inversely proportional to the number of people watching, raised to the power of the amount of money involved.*”<br/>— **Mark Gibbs**
 <!-- programming-quote ends -->
 </div>
