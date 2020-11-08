@@ -31,6 +31,6 @@ I am **[Navdeep Maan](https://djmaan.github.io)**, a 22 y.o. aspiring 👨‍�
 
 ### Show some ❤️ by starring some of the repositories!
 <!-- programming-quote starts -->
-“*A computer would deserve to be called intelligent if it could deceive a human into believing that it was human.*”<br/>— **Alan Turing**
+“*Documenting is very, very hard; it’s time-consuming. To do it right, you’ve got to do it like programming. You’ve got to deconstruct it, put it together in nice ways, rewrite it when it’s wrong. People don’t do that.*”<br/>— **Ken Thompson**
 <!-- programming-quote ends -->
 </div>
