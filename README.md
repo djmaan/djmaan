@@ -31,6 +31,6 @@ I am **[Navdeep Maan](https://djmaan.github.io)**, a 22 y.o. aspiring 👨‍�
 
 ### Show some ❤️ by starring some of the repositories!
 <!-- programming-quote starts -->
-“*Any product that needs a manual to work is broken.*”<br/>— **Elon Musk**
+“*W​henever I have to think to understand what the code is doing, I ask myself if I can refactor the code to make that understanding more immediately apparent.*”<br/>— **Martin Fowler**
 <!-- programming-quote ends -->
 </div>
