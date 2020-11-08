@@ -31,6 +31,6 @@ I am **[Navdeep Maan](https://djmaan.github.io)**, a 22 y.o. aspiring 👨‍�
 
 ### Show some ❤️ by starring some of the repositories!
 <!-- programming-quote starts -->
-“*JavaScript, purely by accident, has become the most popular programming language in the world.*”<br/>— **Douglas Crockford**
+“*Complexity kills. It sucks the life out of developers, it makes products difficult to plan, build and test, it introduces security challenges and it causes end-user and administrator frustration.*”<br/>— **Ray Ozzie**
 <!-- programming-quote ends -->
 </div>
