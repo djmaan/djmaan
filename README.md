@@ -31,6 +31,6 @@ I am **[Navdeep Maan](https://djmaan.github.io)**, a 22 y.o. aspiring 👨‍�
 
 ### Show some ❤️ by starring some of the repositories!
 <!-- programming-quote starts -->
-“*Nobody knows how to build really complicated hardware systems, so designing hardware tends to be simpler. Software is much more complicated.*”<br/>— **Butler Lampson**
+“*Any product that needs a manual to work is broken.*”<br/>— **Elon Musk**
 <!-- programming-quote ends -->
 </div>
