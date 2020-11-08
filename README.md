@@ -31,6 +31,6 @@ I am **[Navdeep Maan](https://djmaan.github.io)**, a 22 y.o. aspiring 👨‍�
 
 ### Show some ❤️ by starring some of the repositories!
 <!-- programming-quote starts -->
-“*Documenting is very, very hard; it’s time-consuming. To do it right, you’ve got to do it like programming. You’ve got to deconstruct it, put it together in nice ways, rewrite it when it’s wrong. People don’t do that.*”<br/>— **Ken Thompson**
+“*Nobody knows how to build really complicated hardware systems, so designing hardware tends to be simpler. Software is much more complicated.*”<br/>— **Butler Lampson**
 <!-- programming-quote ends -->
 </div>
