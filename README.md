@@ -31,6 +31,6 @@ I am **[Navdeep Maan](https://djmaan.github.io)**, a 22 y.o. aspiring 👨‍�
 
 ### Show some ❤️ by starring some of the repositories!
 <!-- programming-quote starts -->
-“*No matter how slick the demo is in rehearsal, when you do it in front of a live audience, the probability of a flawless presentation is inversely proportional to the number of people watching, raised to the power of the amount of money involved.*”<br/>— **Mark Gibbs**
+“*JavaScript, purely by accident, has become the most popular programming language in the world.*”<br/>— **Douglas Crockford**
 <!-- programming-quote ends -->
 </div>
