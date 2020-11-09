@@ -31,6 +31,6 @@ I am **[Navdeep Maan](https://djmaan.github.io)**, a 22 y.o. aspiring 👨‍�
 
 ### Show some ❤️ by starring some of the repositories!
 <!-- programming-quote starts -->
-“*The act of describing a program in unambiguous detail and the act of programming are one and the same.*”<br/>— **Kevlin Henney**
+“*More computing sins are committed in the name of efficiency (without necessarily achieving it) than for any other single reason - including blind stupidity.*”<br/>— **William Wulf**
 <!-- programming-quote ends -->
 </div>
