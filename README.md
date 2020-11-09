@@ -31,6 +31,6 @@ I am **[Navdeep Maan](https://djmaan.github.io)**, a 22 y.o. aspiring 👨‍�
 
 ### Show some ❤️ by starring some of the repositories!
 <!-- programming-quote starts -->
-“*Another danger is that commercial pressures of one sort or another will divert the attention of the best thinkers from real innovation to exploitation of the current fad, from prospecting to mining a known lode.*”<br/>— **Dennis Ritchie**
+“*The manager's function is not to make people work, but to make it possible for people to work.*”<br/>— **Tom DeMarco**
 <!-- programming-quote ends -->
 </div>
