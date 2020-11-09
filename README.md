@@ -31,6 +31,6 @@ I am **[Navdeep Maan](https://djmaan.github.io)**, a 22 y.o. aspiring 👨‍�
 
 ### Show some ❤️ by starring some of the repositories!
 <!-- programming-quote starts -->
-“*Deleted code is debugged code.*”<br/>— **Jeff Sickel**
+“*It's fun to sit at a terminal and let the code flow. It sounds strange, but it just comes out my brain; once I'm started, I don't have to think about it.*”<br/>— **Gary Kildall**
 <!-- programming-quote ends -->
 </div>
