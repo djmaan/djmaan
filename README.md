@@ -31,6 +31,6 @@ I am **[Navdeep Maan](https://djmaan.github.io)**, a 22 y.o. aspiring 👨‍�
 
 ### Show some ❤️ by starring some of the repositories!
 <!-- programming-quote starts -->
-“*The manager's function is not to make people work, but to make it possible for people to work.*”<br/>— **Tom DeMarco**
+“*The act of describing a program in unambiguous detail and the act of programming are one and the same.*”<br/>— **Kevlin Henney**
 <!-- programming-quote ends -->
 </div>
