@@ -31,6 +31,6 @@ I am **[Navdeep Maan](https://djmaan.github.io)**, a 22 y.o. aspiring 👨‍�
 
 ### Show some ❤️ by starring some of the repositories!
 <!-- programming-quote starts -->
-“*No code is faster than no code.*”<br/>— **Kevlin Henney**
+“*Another danger is that commercial pressures of one sort or another will divert the attention of the best thinkers from real innovation to exploitation of the current fad, from prospecting to mining a known lode.*”<br/>— **Dennis Ritchie**
 <!-- programming-quote ends -->
 </div>
