@@ -31,6 +31,6 @@ I am **[Navdeep Maan](https://djmaan.github.io)**, a 22 y.o. aspiring 👨‍�
 
 ### Show some ❤️ by starring some of the repositories!
 <!-- programming-quote starts -->
-“*For most software, efficiency just does not matter.*”<br/>— **Daniel T. Barry**
+“*Deleted code is debugged code.*”<br/>— **Jeff Sickel**
 <!-- programming-quote ends -->
 </div>
