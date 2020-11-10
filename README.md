@@ -31,6 +31,6 @@ I am **[Navdeep Maan](https://djmaan.github.io)**, a 22 y.o. aspiring 👨‍�
 
 ### Show some ❤️ by starring some of the repositories!
 <!-- programming-quote starts -->
-“*The Domain Name Server (DNS) is the Achilles heel of the Web.*”<br/>— **Tim Berners-Lee**
+“*I think one of the most valuable rules is avoid duplication.*”<br/>— **Martin Fowler**
 <!-- programming-quote ends -->
 </div>
