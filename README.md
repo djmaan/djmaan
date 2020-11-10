@@ -31,8 +31,6 @@ I am **[Navdeep Maan](https://djmaan.github.io)**, a 22 y.o. aspiring 👨‍�
 
 ### Show some ❤️ by starring some of the repositories!
 <!-- programming-quote starts -->
-“*Two things are known about requirements:
-1. They will change!
-2. They will be misunderstood!*”<br/>— **Michael A. Jackson**
+“*I'm doing a free operating system (just a hobby, won't be big and professional like GNU).*”<br/>— **Linus Torvalds**
 <!-- programming-quote ends -->
 </div>
