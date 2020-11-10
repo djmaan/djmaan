@@ -31,6 +31,6 @@ I am **[Navdeep Maan](https://djmaan.github.io)**, a 22 y.o. aspiring 👨‍�
 
 ### Show some ❤️ by starring some of the repositories!
 <!-- programming-quote starts -->
-“*Any unwillingness to learn mathematics today can greatly restrict your possibilities tomorrow.*”<br/>— **Richard Hamming**
+“*Once the computers got control, we might never get it back.*”<br/>— **Marvin Minsky**
 <!-- programming-quote ends -->
 </div>
