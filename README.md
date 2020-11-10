@@ -31,6 +31,8 @@ I am **[Navdeep Maan](https://djmaan.github.io)**, a 22 y.o. aspiring 👨‍�
 
 ### Show some ❤️ by starring some of the repositories!
 <!-- programming-quote starts -->
-“*The proper use of comments is to compensate for our failure to express ourself in code.*”<br/>— **Robert C. Martin**
+“*Two things are known about requirements:
+1. They will change!
+2. They will be misunderstood!*”<br/>— **Michael A. Jackson**
 <!-- programming-quote ends -->
 </div>
