@@ -31,6 +31,6 @@ I am **[Navdeep Maan](https://djmaan.github.io)**, a 22 y.o. aspiring 👨‍�
 
 ### Show some ❤️ by starring some of the repositories!
 <!-- programming-quote starts -->
-“*I think one of the most valuable rules is avoid duplication.*”<br/>— **Martin Fowler**
+“*Any unwillingness to learn mathematics today can greatly restrict your possibilities tomorrow.*”<br/>— **Richard Hamming**
 <!-- programming-quote ends -->
 </div>
