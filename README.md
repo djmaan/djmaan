@@ -31,6 +31,6 @@ I am **[Navdeep Maan](https://djmaan.github.io)**, a 22 y.o. aspiring 👨‍�
 
 ### Show some ❤️ by starring some of the repositories!
 <!-- programming-quote starts -->
-“*I'm doing a free operating system (just a hobby, won't be big and professional like GNU).*”<br/>— **Linus Torvalds**
+“*The Domain Name Server (DNS) is the Achilles heel of the Web.*”<br/>— **Tim Berners-Lee**
 <!-- programming-quote ends -->
 </div>
