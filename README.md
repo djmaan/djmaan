@@ -31,6 +31,6 @@ I am **[Navdeep Maan](https://djmaan.github.io)**, a 22 y.o. aspiring 👨‍�
 
 ### Show some ❤️ by starring some of the repositories!
 <!-- programming-quote starts -->
-“*Once the computers got control, we might never get it back.*”<br/>— **Marvin Minsky**
+“*They were saying computers deal with numbers. This was absolutely nonsense. Computers deal with arbitrary information of any kind.*”<br/>— **Ted Nelson**
 <!-- programming-quote ends -->
 </div>
