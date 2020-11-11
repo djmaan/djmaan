@@ -31,6 +31,6 @@ I am **[Navdeep Maan](https://djmaan.github.io)**, a 22 y.o. aspiring 👨‍�
 
 ### Show some ❤️ by starring some of the repositories!
 <!-- programming-quote starts -->
-“*Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter.*”<br/>— **Eric S. Raymond**
+“*We have seen that computer programming is an art, because it applies accumulated knowledge to the world, because it requires skill and ingenuity, and especially because it produces objects of beauty.*”<br/>— **Donald Knuth**
 <!-- programming-quote ends -->
 </div>
