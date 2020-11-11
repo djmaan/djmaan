@@ -31,6 +31,6 @@ I am **[Navdeep Maan](https://djmaan.github.io)**, a 22 y.o. aspiring 👨‍�
 
 ### Show some ❤️ by starring some of the repositories!
 <!-- programming-quote starts -->
-“*It turns out that there is no algorithm for examining a program and determining whether or not it is fatally infected with an endless loop. Moreover, it’s not that no one has yet discovered such an algorithm; rather, no such algorithm is possible.*”<br/>— **Danny Hillis**
+“*Be humble, communicate clearly, and respect others. It costs nothing to be kind, but the impact is priceless.*”<br/>— **Addy Osmani**
 <!-- programming-quote ends -->
 </div>
