@@ -31,6 +31,6 @@ I am **[Navdeep Maan](https://djmaan.github.io)**, a 22 y.o. aspiring 👨‍�
 
 ### Show some ❤️ by starring some of the repositories!
 <!-- programming-quote starts -->
-“*A lot of companies hire people to tell them what to do. We hire people to tell us what to do.*”<br/>— **Steve Jobs**
+“*Reliable computations are obtainable from buggy programs, which after all, are the only kind of programs there are.*”<br/>— **Daniel T. Barry**
 <!-- programming-quote ends -->
 </div>
