@@ -31,6 +31,6 @@ I am **[Navdeep Maan](https://djmaan.github.io)**, a 22 y.o. aspiring 👨‍�
 
 ### Show some ❤️ by starring some of the repositories!
 <!-- programming-quote starts -->
-“*They were saying computers deal with numbers. This was absolutely nonsense. Computers deal with arbitrary information of any kind.*”<br/>— **Ted Nelson**
+“*A lot of companies hire people to tell them what to do. We hire people to tell us what to do.*”<br/>— **Steve Jobs**
 <!-- programming-quote ends -->
 </div>
