@@ -31,6 +31,6 @@ I am **[Navdeep Maan](https://djmaan.github.io)**, a 22 y.o. aspiring 👨‍�
 
 ### Show some ❤️ by starring some of the repositories!
 <!-- programming-quote starts -->
-“*Reliable computations are obtainable from buggy programs, which after all, are the only kind of programs there are.*”<br/>— **Daniel T. Barry**
+“*Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter.*”<br/>— **Eric S. Raymond**
 <!-- programming-quote ends -->
 </div>
