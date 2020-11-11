@@ -31,6 +31,6 @@ I am **[Navdeep Maan](https://djmaan.github.io)**, a 22 y.o. aspiring 👨‍�
 
 ### Show some ❤️ by starring some of the repositories!
 <!-- programming-quote starts -->
-“*Be humble, communicate clearly, and respect others. It costs nothing to be kind, but the impact is priceless.*”<br/>— **Addy Osmani**
+“*I start with drawing the data structures, and I spend a lot of time thinking about them. I also think about what the program has to go through before I start writing code.*”<br/>— **Gary Kildall**
 <!-- programming-quote ends -->
 </div>
